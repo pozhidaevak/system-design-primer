@@ -417,7 +417,7 @@ Another way to look at performance vs scalability:
 ### Source(s) and further reading
 
 * [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
-* [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
+* [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/) TODO reread, it also has a link to a good book
 
 ## Latency vs throughput
 
