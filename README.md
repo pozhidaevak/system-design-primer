@@ -491,6 +491,13 @@ This approach is seen in file systems and RDBMSes.  Strong consistency works wel
 
 * [Transactions across data centers](http://snarfed.org/transactions_across_datacenters_io.html)
 
+<p align="center">
+  <img src="https://i.imgur.com/fDWW3S6.png">
+  <br/>
+  [Source](http://snarfed.org/transactions_across_datacenters_io.html)
+</p>
+
+
 ## Availability patterns
 
 There are two main patterns to support high availability: **fail-over** and **replication**.
