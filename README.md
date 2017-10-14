@@ -494,9 +494,9 @@ This approach is seen in file systems and RDBMSes.  Strong consistency works wel
 <p align="center">
   <img src="https://i.imgur.com/fDWW3S6.png">
   <br/>
-  [Source](http://snarfed.org/transactions_across_datacenters_io.html)
 </p>
 
+[Source](http://snarfed.org/transactions_across_datacenters_io.html)
 
 ## Availability patterns
 
